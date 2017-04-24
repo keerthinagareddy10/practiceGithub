@@ -13,6 +13,8 @@ public class Sample2 {
 		System.out.println("Sample code changed");
 		System.out.println("update to version 3");
 		System.out.println("Sample code changed");
+		System.out.println("update to version4");
+		System.out.println("Sample code changed");
 	}
 
 }
