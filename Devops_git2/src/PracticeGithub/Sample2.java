@@ -11,6 +11,8 @@ public class Sample2 {
 		System.out.println("intail Sample code");
 		System.out.println("Update to version 2");
 		System.out.println("Sample code changed");
+		System.out.println("update to version 3");
+		System.out.println("Sample code changed");
 	}
 
 }
